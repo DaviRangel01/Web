@@ -1,0 +1,72 @@
+.card{
+    margin: 15px;
+    color: aliceblue;
+    background-color: #000000;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+
+}
+
+
+.bg-custom-color {
+    background-color:  #2b3438;
+}
+#nav{
+    color: aliceblue;
+    text-align: center;
+}
+header {
+    height: 80px;
+    background-color: #151d27;
+}
+
+.img-logo {
+    height: 50px;
+}
+
+.title-logo {
+    height: 20px;
+}
+
+.header-div {
+    padding-top: 15px;
+    margin-left: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.header-nav-css {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 15px;
+    width: 40%;
+}
+
+.nav-item {
+    color: white;
+    height: 30px;
+    font-weight: 600;
+}
+
+.last-header-bar {
+    padding-top: 15px;
+}
+
+.header-user {
+    display: flex;
+    flex-direction: row;
+    margin-right: 30px;
+}
+
+.user-item {
+    display: flex;
+    color: white;
+}
+
+#foot{
+   color: aliceblue;
+}
